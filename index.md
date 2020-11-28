@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 民昊车行欢迎您
 
 You can use the [editor on GitHub](https://github.com/hanguocar/Mycar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
